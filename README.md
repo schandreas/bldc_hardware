@@ -1,1 +1,1 @@
-This is a fork of benjamin vedders VESC project :rage:
+This is a fork of benjamin vedders VESC project
