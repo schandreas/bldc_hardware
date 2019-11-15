@@ -4412,8 +4412,6 @@ Text HLabel 4500 2350 0    60   Input ~ 0
 MISO_ADC_EXT2
 Text HLabel 4500 2450 0    60   Output ~ 0
 RX_SCL_MOSI
-Text HLabel 4500 2050 0    60   Input ~ 0
-ADC_TEMP
 Text HLabel 4500 2150 0    60   3State ~ 0
 TX_SDA_NSS
 Wire Wire Line
@@ -4458,4 +4456,12 @@ Wire Wire Line
 	9900 1000 10150 1000
 Wire Wire Line
 	10150 1000 10400 1000
+NoConn ~ 4500 3350
+NoConn ~ 4500 3450
+NoConn ~ 4500 3550
+NoConn ~ 4500 3650
+NoConn ~ 4500 3750
+NoConn ~ 4500 4550
+NoConn ~ 4500 5650
+NoConn ~ 4500 2050
 $EndSCHEMATC
