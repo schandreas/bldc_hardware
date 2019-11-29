@@ -4395,7 +4395,7 @@ F 2 "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm" H 7750 2050 60  0001 C CNN
 F 3 "" H 7750 2050 60  0000 C CNN
 F 4 "ABM3B-8.0-10-1UT" H 7750 2050 60  0001 C CNN "mfg#"
 	1    7750 2050
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L BLDC_4-rescue:GND-RESCUE-BLDC_4 #PWR043
