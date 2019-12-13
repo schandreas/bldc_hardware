@@ -507,11 +507,11 @@ Text HLabel 4500 2650 0    60   Output ~ 0
 H2
 Text HLabel 4500 2750 0    60   Output ~ 0
 H1
-Text HLabel 4500 1750 0    60   Input ~ 0
+Text HLabel 4500 1950 0    60   Input ~ 0
 SENS3
 Text HLabel 4500 1850 0    60   Input ~ 0
 SENS2
-Text HLabel 4500 1950 0    60   Input ~ 0
+Text HLabel 4500 1750 0    60   Input ~ 0
 SENS1
 Text HLabel 4500 3250 0    60   Input ~ 0
 BR_SO1
